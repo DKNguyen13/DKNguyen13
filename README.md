@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#0a66c2">DKNguyen13</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#0a66c2">Khánh Nguyên</span></h1>
 <h3 align="center">💻 A passionate full-stack & game developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
