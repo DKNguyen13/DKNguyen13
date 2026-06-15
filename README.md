@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0a66c2">Khánh Nguyên</span></h1>
-<h3 align="center">🎮 Unity Game Developer and Backend Developer | 💻 Software Engineering Student at HCMUTE (Vietnam 🇻🇳)</h3>
+<h3 align="center">🎮 Unity Game Developer and Backend Developer</h3>
+<h3 align="center">💻 Software Engineering Student at HCMUTE (Vietnam 🇻🇳)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DKNguyen13&label=Profile%20views&color=0e75b6&style=flat" alt="DKNguyen13" />
