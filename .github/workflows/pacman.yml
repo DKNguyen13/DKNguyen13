@@ -10,19 +10,23 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
+    env:
+      NODE_OPTIONS: --max-old-space-size=8192
+
     steps:
       - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: DKNguyen13
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           games: pacman
 
       - name: Push SVG files to output branch
